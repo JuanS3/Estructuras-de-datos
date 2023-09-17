@@ -50,10 +50,10 @@ Clonar el repositorio
 
 ```bash
 # Clonar el repositorio por SSH
-git clone git@github.com:JuanS3/Estructuras-de-datos.git
+git clone git@github.com:JuanS3/datastructures-inter.git
 
 # Clonar el repositorio por HTTPS
-git clone https://github.com/JuanS3/Estructuras-de-datos.git
+git clone https://github.com/JuanS3/datastructures-inter.git
 ```
 
 
