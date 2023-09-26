@@ -75,7 +75,7 @@ Para ejecutar el proyecto, se debe abrir el archivo `magic.py` en Visual Studio 
 
 ```bash
 # Ejecutar el proyecto
-python sudoku.py
+python magic.py
 ```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
