@@ -60,6 +60,9 @@ Clonar el repositorio
 ```bash
 # Clonar el repositorio por SSH
 git clone git@github.com:JuanS3/datastructures-inter.git
+
+# Clonar el respositorio por HTTP
+git clone https://github.com/JuanS3/datastructures-inter.git
 ```
 
 Instalar las dependencias
