@@ -60,6 +60,9 @@ Clonar el repositorio
 ```bash
 # Clonar el repositorio por SSH
 git clone git@github.com:JuanS3/datastructures-inter.git
+
+# Clonar el respositorio por HTTP
+git clone https://github.com/JuanS3/datastructures-inter.git
 ```
 
 Instalar las dependencias
@@ -75,7 +78,7 @@ Para ejecutar el proyecto, se debe abrir el archivo `magic.py` en Visual Studio 
 
 ```bash
 # Ejecutar el proyecto
-python sudoku.py
+python magic.py
 ```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
