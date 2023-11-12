@@ -1,0 +1,19 @@
+{
+    "menu": {
+        "title": "Menú",
+        "options": {
+            "1": "Jugar",
+            "2": "Cambiar idioma",
+            "3": "Salir"
+        },
+        "invalid_option": "Opción inválida",
+        "thanks": "Gracias por jugar",
+        "enter_option": "Ingrese una opción: "
+    },
+    "change_lang": {
+        "title": "Cambiar idioma",
+        "invalid_option": "Opción inválida",
+        "change_lang": "Idioma cambiado",
+        "enter_option": "Ingrese una opción: "
+    }
+}

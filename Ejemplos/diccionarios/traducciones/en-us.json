@@ -1,0 +1,19 @@
+{
+    "menu": {
+        "title": "Menu",
+        "options": {
+            "1": "Play",
+            "2": "Change language",
+            "3": "Exit"
+        },
+        "invalid_option": "Invalid option",
+        "thanks": "Thanks for playing",
+        "enter_option": "Enter an option: "
+    },
+    "change_lang": {
+        "title": "Change language",
+        "invalid_option": "Invalid option",
+        "change_lang": "Language changed",
+        "enter_option": "Enter an option: "
+    }
+}
