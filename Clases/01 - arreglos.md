@@ -1,3 +1,4 @@
+
 # Arreglos
 
 Un arreglo es una estructura de datos que contiene una colección de elementos del mismo tipo. Los arreglos se utilizan para almacenar datos de manera eficiente y compacta. Por ejemplo, si desea almacenar 100 números enteros, es mucho más fácil hacerlo en un arreglo que en 100 variables separadas.
@@ -167,3 +168,15 @@ print(arreglo.count(1))
 ### Otras operaciones
 
 Existen muchas otras operaciones que se pueden realizar con arreglos, para conocerlas todas se recomienda revisar la documentación oficial de Python en el siguiente enlace: [https://docs.python.org/3/tutorial/datastructures.html](https://docs.python.org/3/tutorial/datastructures.html)
+
+---
+### Recursos
+
+- [Arreglos en Python / Jupyter Notebook](01%20-%20arreglos.ipynb)
+---
+
+<div style="text-align: center">
+
+[🔙 Estructuras de datos](00%20-%20Estructuras%20de%20datos.md) | [🔼 Subir](#arreglos) | [▶ Siguiente: Recursividad](02%20-%20Recursividad.md)
+
+</div>

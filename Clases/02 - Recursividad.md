@@ -47,3 +47,16 @@ def factorial(n):
 ```
 
 En este ejemplo, el caso base es cuando `n` es `0` o `1`, en cuyo caso el factorial es `1`. En el caso recursivo, la función se llama a sí misma con `n - 1` y se multiplica por `n`. Esto continúa hasta que `n` es `0` o `1`, momento en el que la función comienza a regresar resultados.
+
+---
+### Recursos
+
+- [Recursividad en Python / Jupyter Notebook](02%20-%20Recursividad.ipynb)
+---
+
+<div style="text-align: center">
+
+[🔙 Arreglos](01%20-%20arreglos.md) | [🔼 Subir](#recursividad) | [🔜 Listas enlazadas](03%20-%20listas%20enlazadas.md)
+
+</div>
+

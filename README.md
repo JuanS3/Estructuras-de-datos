@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=300px height=200px src="assets/img/Logo.png" alt="INTER - Escuela Internacional de Estudios Superiores"></a>
+ <img width=300px height=200px src="assets/img/Logo.png" alt="INTER - Escuela Internacional de Estudios Superiores">
 </p>
 
 <h1 align="center">Clase de Estructuras de Datos</h1>
@@ -8,8 +7,7 @@
 
 
 <p align="center">
-  <a href="" rel="noopener">
- <img width=300px height=150px src="assets/img/esda.png" alt="Estructuras de datos"></a>
+ <img width=300px height=150px src="assets/img/esda.png" alt="Estructuras de datos">
 </p>
 
 ---
